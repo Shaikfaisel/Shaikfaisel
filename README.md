@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Shaikfaisel&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -44,19 +44,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shaik-faisel565-linkedi/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/5r7qyM5OfQ/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
 
-<a href="YOUR_HACKERRANK_URL">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://shaikfaisel.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
@@ -106,20 +102,7 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaikfaisel&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikfaisel&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shaikfaisel&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaikfaisel&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

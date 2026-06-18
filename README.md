@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-🎓 Computer Science Engineering Graduate
+🎓  Electronics & Communication Engineering Graduate
 
 💻 Passionate about Full Stack Development, AI, and Cloud Technologies
 
@@ -35,9 +35,9 @@
 
 📍 India
 
-📫 Reach me at: **your-email@gmail.com**
+📫 Reach me at: **shaikfaisel129@gmail.com**
 
-🌐 Portfolio: **https://www.shaikfaisel.com**
+🌐 Portfolio: **https://shaikfaisel.netlify.app**
 
 ---
 
@@ -103,31 +103,11 @@
 
 ---
 
-### 🤖 AI Video Dubbing System
-
-- Automated translation and voice synchronization
-- Lip-sync generation using AI models
-- Multi-language support
-
-**Tech:** Python, Flask, Wav2Lip, Deep Learning
-
----
-
-### 📊 NLP to SQL Query Generator
-
-- Convert natural language into SQL queries
-- Database interaction through AI
-- Improves accessibility for non-technical users
-
-**Tech:** Python, NLP, Transformers
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaikfaisel&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikfaisel&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -139,7 +119,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shaikfaisel&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -148,7 +128,6 @@
 
 ```text
 ✓ Full Stack Development
-✓ Spring Boot Applications
 ✓ Cloud & DevOps
 ✓ AI Integration
 ✓ Open Source Contributions

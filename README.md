@@ -18,14 +18,14 @@
 
 🎓  Electronics & Communication Engineering Graduate
 
-💻 Passionate about Full Stack Development, AI, and Cloud Technologies
+💻 Passionate about Embedded Systems, Full Stack Development, AI, and Cloud Technologies
 
 🚀 Building scalable web applications with modern technologies
 
 🌱 Currently learning:
-- Advanced Java & Spring Boot
+- Advanced Java
 - Cloud Computing (AWS)
-- System Design
+- VLSI Design
 - AI-powered Applications
 
 🎯 Goal:

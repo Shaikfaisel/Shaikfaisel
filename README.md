@@ -57,6 +57,10 @@
 <a href="https://shaikfaisel.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+<a href="https://shaikfaisel.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-v2-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 ---

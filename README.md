@@ -39,6 +39,8 @@
 
 🌐 Portfolio: **https://shaikfaisel.netlify.app**
 
+🌐 Portfolio-v2: **https://shaikfaisel.onrender.com**
+
 ---
 
 ## 🌐 Connect With Me
